@@ -1,0 +1,1122 @@
+inventree-server  | Loading config file : /home/inventree/data/config.yaml
+inventree-cache   | 1:C 17 Oct 2025 03:08:34.610 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+inventree-cache   | 1:C 17 Oct 2025 03:08:34.610 * Redis version=7.4.6, bits=64, commit=00000000, modified=0, pid=1, just started
+inventree-cache   | 1:C 17 Oct 2025 03:08:34.610 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+inventree-cache   | 1:M 17 Oct 2025 03:08:34.610 * monotonic clock: POSIX clock_gettime
+inventree-cache   | 1:M 17 Oct 2025 03:08:34.611 * Running mode=standalone, port=6379.
+inventree-cache   | 1:M 17 Oct 2025 03:08:34.612 * Server initialized
+inventree-cache   | 1:M 17 Oct 2025 03:08:34.612 * Ready to accept connections tcp
+inventree-worker  | Loading config file : /home/inventree/data/config.yaml
+inventree-worker  | [94mWaiting for database connection...[0m
+inventree-server  | INVE-W3: Could not detect git information.
+inventree-server  | Python version 3.11.13 - /usr/local/bin/python3.11
+inventree-worker  | INVE-W3: Could not detect git information.
+inventree-worker  | Python version 3.11.13 - /usr/local/bin/python3
+inventree-db      | 
+inventree-db      | PostgreSQL Database directory appears to contain a database; Skipping initialization
+inventree-db      | 
+inventree-db      | 2025-10-17 03:08:36.851 UTC [1] LOG:  starting PostgreSQL 17.6 (Debian 17.6-2.pgdg13+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+inventree-db      | 2025-10-17 03:08:36.851 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+inventree-db      | 2025-10-17 03:08:36.851 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+inventree-db      | 2025-10-17 03:08:36.862 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+inventree-db      | 2025-10-17 03:08:36.940 UTC [29] LOG:  database system shutdown was interrupted; last known up at 2025-10-17 03:08:30 UTC
+inventree-db      | 2025-10-17 03:08:36.942 UTC [30] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.947 UTC [31] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.955 UTC [32] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.958 UTC [33] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.963 UTC [34] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.966 UTC [35] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.969 UTC [36] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.973 UTC [37] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.977 UTC [38] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.980 UTC [39] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.983 UTC [40] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.987 UTC [41] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.989 UTC [42] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.993 UTC [43] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:36.997 UTC [44] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.000 UTC [45] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.004 UTC [46] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.008 UTC [47] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.010 UTC [48] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.016 UTC [49] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.019 UTC [50] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.020 UTC [51] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.022 UTC [52] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.023 UTC [53] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.025 UTC [54] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.026 UTC [55] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.030 UTC [56] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.033 UTC [57] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.062 UTC [58] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.065 UTC [59] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.068 UTC [60] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.193 UTC [61] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.196 UTC [62] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.198 UTC [63] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.280 UTC [64] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.283 UTC [65] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.286 UTC [66] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.290 UTC [67] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.294 UTC [68] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.297 UTC [69] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.301 UTC [70] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.304 UTC [71] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.306 UTC [72] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.357 UTC [73] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.361 UTC [74] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.364 UTC [75] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.410 UTC [76] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.413 UTC [77] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.416 UTC [78] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.418 UTC [79] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.422 UTC [80] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.425 UTC [81] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.428 UTC [82] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.431 UTC [83] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.434 UTC [84] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.438 UTC [85] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.441 UTC [86] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.444 UTC [87] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.446 UTC [88] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.449 UTC [89] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.453 UTC [90] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.455 UTC [91] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.458 UTC [92] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.462 UTC [93] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.465 UTC [94] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.470 UTC [95] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.474 UTC [96] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.476 UTC [97] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.480 UTC [98] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.484 UTC [99] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.487 UTC [100] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.490 UTC [101] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.494 UTC [102] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.496 UTC [103] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.500 UTC [104] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.504 UTC [105] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.507 UTC [106] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.510 UTC [107] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.514 UTC [108] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.517 UTC [109] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.520 UTC [110] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.524 UTC [111] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.527 UTC [112] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.530 UTC [113] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.533 UTC [114] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.537 UTC [115] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.540 UTC [116] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.545 UTC [117] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.550 UTC [118] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.554 UTC [119] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.557 UTC [120] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.560 UTC [121] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.563 UTC [122] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.566 UTC [123] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.568 UTC [124] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.571 UTC [125] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.575 UTC [126] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.578 UTC [127] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.581 UTC [128] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.583 UTC [129] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.586 UTC [130] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.592 UTC [131] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.595 UTC [132] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.597 UTC [133] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.600 UTC [134] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.603 UTC [135] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.606 UTC [136] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.789 UTC [137] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.793 UTC [138] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.801 UTC [139] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.805 UTC [140] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.809 UTC [141] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.813 UTC [142] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.816 UTC [143] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.836 UTC [144] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.843 UTC [145] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.870 UTC [146] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:37.873 UTC [147] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.519 UTC [148] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.572 UTC [149] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.718 UTC [150] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.777 UTC [151] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.852 UTC [152] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.857 UTC [153] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.859 UTC [154] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.994 UTC [155] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:38.998 UTC [156] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.001 UTC [157] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.005 UTC [158] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.009 UTC [159] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.014 UTC [160] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.018 UTC [161] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.021 UTC [162] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.025 UTC [163] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.102 UTC [164] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.117 UTC [165] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.122 UTC [166] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.133 UTC [167] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.145 UTC [168] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.153 UTC [169] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.164 UTC [170] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.175 UTC [171] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.189 UTC [172] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.203 UTC [173] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.211 UTC [174] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.225 UTC [175] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.235 UTC [176] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.254 UTC [177] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.265 UTC [178] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.282 UTC [179] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.297 UTC [180] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.307 UTC [181] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.359 UTC [182] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.364 UTC [183] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.371 UTC [184] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.375 UTC [185] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.380 UTC [186] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.387 UTC [187] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.394 UTC [188] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.394 UTC [189] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.401 UTC [190] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.405 UTC [191] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.411 UTC [192] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.416 UTC [193] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.420 UTC [194] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.427 UTC [195] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.435 UTC [196] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.442 UTC [197] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.521 UTC [198] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.542 UTC [199] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.552 UTC [200] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.558 UTC [201] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.564 UTC [202] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.572 UTC [203] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.578 UTC [204] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.585 UTC [205] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.589 UTC [206] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.595 UTC [207] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.604 UTC [208] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.615 UTC [209] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.621 UTC [210] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.626 UTC [211] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.632 UTC [212] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.639 UTC [213] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.645 UTC [214] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.657 UTC [215] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.684 UTC [216] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.687 UTC [217] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.694 UTC [218] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.698 UTC [219] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.701 UTC [220] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.712 UTC [221] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.722 UTC [222] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.852 UTC [223] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.855 UTC [224] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.893 UTC [225] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:39.968 UTC [226] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.059 UTC [227] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.079 UTC [228] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.081 UTC [229] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.086 UTC [230] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.090 UTC [231] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.092 UTC [232] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.096 UTC [233] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.100 UTC [234] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.103 UTC [235] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.107 UTC [236] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.110 UTC [237] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.115 UTC [238] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.120 UTC [239] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.124 UTC [240] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.128 UTC [241] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.132 UTC [242] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.135 UTC [243] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.138 UTC [244] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.143 UTC [245] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.301 UTC [246] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.305 UTC [247] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.308 UTC [248] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.312 UTC [249] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.315 UTC [250] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.329 UTC [251] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.331 UTC [252] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.335 UTC [253] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.338 UTC [254] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.341 UTC [255] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.355 UTC [256] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.358 UTC [257] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.361 UTC [258] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.364 UTC [259] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.367 UTC [260] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.374 UTC [261] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.377 UTC [262] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.382 UTC [263] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.399 UTC [264] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.403 UTC [265] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.406 UTC [266] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.410 UTC [267] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.413 UTC [268] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.421 UTC [269] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.427 UTC [270] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.429 UTC [271] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.433 UTC [272] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.436 UTC [273] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.438 UTC [274] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.457 UTC [275] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.460 UTC [276] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.477 UTC [277] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.479 UTC [278] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.483 UTC [279] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.485 UTC [280] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.539 UTC [281] FATAL:  the database system is starting up
+inventree-server  | Traceback (most recent call last):
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 288, in ensure_connection
+inventree-server  |     self.connect()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 269, in connect
+inventree-server  |     self.connection = self.get_new_connection(conn_params)
+inventree-server  |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/postgresql/base.py", line 275, in get_new_connection
+inventree-server  |     connection = self.Database.connect(**conn_params)
+inventree-server  |                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/psycopg/connection.py", line 120, in connect
+inventree-server  |     raise last_ex.with_traceback(None)
+inventree-server  | psycopg.OperationalError: connection failed: connection to server at "172.31.0.3", port 5432 failed: FATAL:  the database system is starting up
+inventree-server  | 
+inventree-server  | The above exception was the direct cause of the following exception:
+inventree-server  | 
+inventree-server  | Traceback (most recent call last):
+inventree-server  |   File "/root/.local/bin/gunicorn", line 8, in <module>
+inventree-server  |     sys.exit(run())
+inventree-server  |              ^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+inventree-server  |     WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/base.py", line 235, in run
+inventree-server  |     super().run()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/base.py", line 71, in run
+inventree-server  |     Arbiter(self).run()
+inventree-server  |     ^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/arbiter.py", line 57, in __init__
+inventree-server  |     self.setup(app)
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/arbiter.py", line 117, in setup
+inventree-server  |     self.app.wsgi()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/base.py", line 66, in wsgi
+inventree-server  |     self.callable = self.load()
+inventree-server  |                     ^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/wsgiapp.py", line 57, in load
+inventree-server  |     return self.load_wsgiapp()
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/wsgiapp.py", line 47, in load_wsgiapp
+inventree-server  |     return util.import_app(self.app_uri)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/util.py", line 370, in import_app
+inventree-server  |     mod = importlib.import_module(module)
+inventree-server  |           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/usr/local/lib/python3.11/importlib/__init__.py", line 126, in import_module
+inventree-server  |     return _bootstrap._gcd_import(name[level:], package, level)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+inventree-server  |   File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+inventree-server  |   File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+inventree-server  |   File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+inventree-server  |   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+inventree-server  |   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/wsgi.py", line 19, in <module>
+inventree-server  |     application = get_wsgi_application()  # pragma: no cover
+inventree-server  |                   ^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+inventree-server  |     django.setup(set_prefix=False)
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/__init__.py", line 24, in setup
+inventree-server  |     apps.populate(settings.INSTALLED_APPS)
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/apps/registry.py", line 124, in populate
+inventree-server  |     app_config.ready()
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/part/apps.py", line 33, in ready
+inventree-server  |     InvenTreeConfig.ensure_migrations_done()
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/apps.py", line 320, in ensure_migrations_done
+inventree-server  |     if not InvenTree.tasks.check_for_migrations():
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/usr/local/lib/python3.11/contextlib.py", line 81, in inner
+inventree-server  |     return func(*args, **kwds)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/tasks.py", line 693, in check_for_migrations
+inventree-server  |     plan = get_migration_plan()
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/tasks.py", line 657, in get_migration_plan
+inventree-server  |     executor = MigrationExecutor(connections[DEFAULT_DB_ALIAS])
+inventree-server  |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 18, in __init__
+inventree-server  |     self.loader = MigrationLoader(self.connection)
+inventree-server  |                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/loader.py", line 58, in __init__
+inventree-server  |     self.build_graph()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/loader.py", line 235, in build_graph
+inventree-server  |     self.applied_migrations = recorder.applied_migrations()
+inventree-server  |                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/recorder.py", line 81, in applied_migrations
+inventree-server  |     if self.has_table():
+inventree-server  |        ^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/recorder.py", line 57, in has_table
+inventree-server  |     with self.connection.cursor() as cursor:
+inventree-server  |          ^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 329, in cursor
+inventree-server  |     return self._cursor()
+inventree-server  |            ^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 305, in _cursor
+inventree-server  |     self.ensure_connection()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 287, in ensure_connection
+inventree-server  |     with self.wrap_database_errors:
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+inventree-server  |     raise dj_exc_value.with_traceback(traceback) from exc_value
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 288, in ensure_connection
+inventree-server  |     self.connect()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 269, in connect
+inventree-server  |     self.connection = self.get_new_connection(conn_params)
+inventree-server  |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/postgresql/base.py", line 275, in get_new_connection
+inventree-server  |     connection = self.Database.connect(**conn_params)
+inventree-server  |                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/psycopg/connection.py", line 120, in connect
+inventree-server  |     raise last_ex.with_traceback(None)
+inventree-server  | django.db.utils.OperationalError: connection failed: connection to server at "172.31.0.3", port 5432 failed: FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.724 UTC [282] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:40.806 UTC [283] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:41.195 UTC [284] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:41.483 UTC [285] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:42.002 UTC [286] FATAL:  the database system is starting up
+
+[Kinventree-server exited with code 1 (restarting)
+inventree-server  | Loading config file : /home/inventree/data/config.yaml
+inventree-db      | 2025-10-17 03:08:42.335 UTC [287] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:42.429 UTC [288] FATAL:  the database system is starting up
+inventree-server  | INVE-W3: Could not detect git information.
+inventree-server  | Python version 3.11.13 - /usr/local/bin/python3.11
+inventree-db      | 2025-10-17 03:08:42.840 UTC [289] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.072 UTC [290] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.194 UTC [291] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.198 UTC [292] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.202 UTC [293] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.247 UTC [294] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.252 UTC [295] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.256 UTC [296] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.264 UTC [297] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.269 UTC [298] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.272 UTC [299] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.282 UTC [300] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.288 UTC [301] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.291 UTC [302] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.297 UTC [303] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.302 UTC [304] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.305 UTC [305] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.312 UTC [306] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.317 UTC [307] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.321 UTC [308] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.330 UTC [309] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.336 UTC [310] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.341 UTC [311] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.356 UTC [312] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.360 UTC [313] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.365 UTC [314] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.368 UTC [315] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.373 UTC [316] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.377 UTC [317] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.380 UTC [318] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.385 UTC [319] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.390 UTC [320] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.393 UTC [321] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.398 UTC [322] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.403 UTC [323] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.406 UTC [324] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.410 UTC [325] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.414 UTC [326] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.417 UTC [327] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.421 UTC [328] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.426 UTC [329] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.429 UTC [330] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.434 UTC [331] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.439 UTC [332] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.442 UTC [333] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.448 UTC [334] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.453 UTC [335] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.456 UTC [336] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.461 UTC [337] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.465 UTC [338] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.469 UTC [339] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.474 UTC [340] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.478 UTC [341] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.481 UTC [342] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.484 UTC [343] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.488 UTC [344] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.491 UTC [345] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.495 UTC [346] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.499 UTC [347] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.502 UTC [348] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.505 UTC [349] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.510 UTC [350] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.512 UTC [351] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.518 UTC [352] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.522 UTC [353] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.525 UTC [354] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.587 UTC [355] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.591 UTC [356] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.593 UTC [357] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.596 UTC [358] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.600 UTC [359] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.603 UTC [360] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.606 UTC [361] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.610 UTC [362] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.612 UTC [363] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.616 UTC [364] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.619 UTC [365] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.622 UTC [366] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.628 UTC [367] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.632 UTC [368] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.634 UTC [369] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.637 UTC [370] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.640 UTC [371] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.642 UTC [372] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:43.748 UTC [373] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.043 UTC [374] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.235 UTC [375] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.239 UTC [376] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.248 UTC [377] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.252 UTC [378] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.256 UTC [379] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.260 UTC [380] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.263 UTC [381] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.279 UTC [382] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.289 UTC [383] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.316 UTC [384] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.319 UTC [385] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.742 UTC [386] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:44.977 UTC [387] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:45.066 UTC [388] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:45.130 UTC [389] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:45.419 UTC [390] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:45.505 UTC [29] LOG:  database system was not properly shut down; automatic recovery in progress
+inventree-db      | 2025-10-17 03:08:45.544 UTC [391] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:45.548 UTC [392] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:45.552 UTC [393] FATAL:  the database system is starting up
+inventree-db      | 2025-10-17 03:08:45.553 UTC [29] LOG:  redo starts at 0/1C52630
+inventree-db      | 2025-10-17 03:08:45.556 UTC [394] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.556 UTC [394] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.560 UTC [395] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.560 UTC [395] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.564 UTC [396] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.564 UTC [396] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.568 UTC [397] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.568 UTC [397] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.573 UTC [398] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.573 UTC [398] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.576 UTC [399] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.576 UTC [399] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.579 UTC [400] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.579 UTC [400] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.650 UTC [401] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.650 UTC [401] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.662 UTC [402] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.662 UTC [402] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.663 UTC [403] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.663 UTC [403] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.673 UTC [404] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.673 UTC [404] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.688 UTC [405] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.688 UTC [405] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.708 UTC [406] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.708 UTC [406] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.720 UTC [407] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.720 UTC [407] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.731 UTC [408] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.731 UTC [408] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.743 UTC [409] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.743 UTC [409] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.755 UTC [410] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.755 UTC [410] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.769 UTC [411] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.769 UTC [411] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.776 UTC [412] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.776 UTC [412] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.787 UTC [413] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.787 UTC [413] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.798 UTC [414] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.798 UTC [414] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.816 UTC [415] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.816 UTC [415] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.831 UTC [416] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.831 UTC [416] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.862 UTC [417] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.862 UTC [417] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.871 UTC [418] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.871 UTC [418] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.914 UTC [419] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.914 UTC [419] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.924 UTC [420] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.924 UTC [420] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.929 UTC [421] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.929 UTC [421] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.937 UTC [422] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.937 UTC [422] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.941 UTC [423] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.941 UTC [423] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.948 UTC [424] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.948 UTC [424] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.955 UTC [425] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.955 UTC [425] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.961 UTC [426] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.961 UTC [426] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.969 UTC [427] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.969 UTC [427] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.975 UTC [428] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.975 UTC [428] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.984 UTC [429] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.984 UTC [429] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.991 UTC [430] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.991 UTC [430] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.996 UTC [431] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.996 UTC [431] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:45.998 UTC [432] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:45.998 UTC [432] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.002 UTC [433] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.002 UTC [433] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.010 UTC [434] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.010 UTC [434] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.017 UTC [435] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.017 UTC [435] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.028 UTC [436] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.028 UTC [436] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.039 UTC [437] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.039 UTC [437] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.070 UTC [438] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.070 UTC [438] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.145 UTC [439] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.145 UTC [439] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.150 UTC [440] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.150 UTC [440] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.159 UTC [441] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.159 UTC [441] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.164 UTC [442] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.164 UTC [442] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.171 UTC [443] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.171 UTC [443] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.176 UTC [444] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.176 UTC [444] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.182 UTC [445] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.182 UTC [445] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.192 UTC [446] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.192 UTC [446] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.201 UTC [447] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.201 UTC [447] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.203 UTC [448] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.203 UTC [448] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.209 UTC [449] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.209 UTC [449] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.213 UTC [450] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.213 UTC [450] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.219 UTC [451] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.219 UTC [451] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.232 UTC [452] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.232 UTC [452] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.244 UTC [453] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.244 UTC [453] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.275 UTC [454] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.275 UTC [454] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.279 UTC [455] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.279 UTC [455] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.281 UTC [456] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.281 UTC [456] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.289 UTC [457] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.289 UTC [457] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.294 UTC [458] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.294 UTC [458] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.298 UTC [459] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.298 UTC [459] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.309 UTC [460] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.309 UTC [460] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.321 UTC [461] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.321 UTC [461] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.373 UTC [462] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.373 UTC [462] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.459 UTC [463] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.459 UTC [463] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.463 UTC [464] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.463 UTC [464] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.605 UTC [465] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.605 UTC [465] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.678 UTC [466] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.678 UTC [466] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.706 UTC [467] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.706 UTC [467] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.836 UTC [468] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.836 UTC [468] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.850 UTC [469] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.850 UTC [469] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.853 UTC [470] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.853 UTC [470] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.858 UTC [471] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.858 UTC [471] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.862 UTC [472] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.862 UTC [472] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.865 UTC [473] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.865 UTC [473] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.868 UTC [474] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.868 UTC [474] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.872 UTC [475] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.872 UTC [475] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.876 UTC [476] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.876 UTC [476] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.880 UTC [477] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.880 UTC [477] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.884 UTC [478] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.884 UTC [478] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.888 UTC [479] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.888 UTC [479] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.891 UTC [480] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.891 UTC [480] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.895 UTC [481] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.895 UTC [481] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.898 UTC [482] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.898 UTC [482] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.903 UTC [483] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.903 UTC [483] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.907 UTC [484] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.907 UTC [484] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.910 UTC [485] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.910 UTC [485] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.915 UTC [486] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.915 UTC [486] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.953 UTC [487] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.953 UTC [487] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.983 UTC [488] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.983 UTC [488] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.986 UTC [489] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.986 UTC [489] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.989 UTC [490] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.989 UTC [490] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.993 UTC [491] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.993 UTC [491] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:46.996 UTC [492] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:46.996 UTC [492] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.019 UTC [493] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.019 UTC [493] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.023 UTC [494] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.023 UTC [494] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.031 UTC [495] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.031 UTC [495] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.035 UTC [496] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.035 UTC [496] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.039 UTC [497] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.039 UTC [497] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.044 UTC [498] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.044 UTC [498] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.048 UTC [499] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.048 UTC [499] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.067 UTC [500] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.067 UTC [500] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.070 UTC [501] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.070 UTC [501] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.075 UTC [502] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.075 UTC [502] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.078 UTC [503] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.078 UTC [503] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.082 UTC [504] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.082 UTC [504] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.102 UTC [29] LOG:  invalid record length at 0/1F9FCE0: expected at least 24, got 0
+inventree-db      | 2025-10-17 03:08:47.102 UTC [29] LOG:  redo done at 0/1F9FC78 system usage: CPU: user: 0.05 s, system: 0.12 s, elapsed: 1.54 s
+inventree-db      | 2025-10-17 03:08:47.108 UTC [505] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.108 UTC [505] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.112 UTC [506] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.112 UTC [506] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.116 UTC [507] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.116 UTC [507] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.121 UTC [508] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.121 UTC [508] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.124 UTC [509] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.124 UTC [509] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.138 UTC [510] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.138 UTC [510] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.143 UTC [511] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.143 UTC [511] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.146 UTC [512] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.146 UTC [512] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.152 UTC [513] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.152 UTC [513] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.155 UTC [514] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.155 UTC [514] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.168 UTC [27] LOG:  checkpoint starting: end-of-recovery immediate wait
+inventree-db      | 2025-10-17 03:08:47.169 UTC [515] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.169 UTC [515] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.197 UTC [516] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.197 UTC [516] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.200 UTC [517] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.200 UTC [517] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.203 UTC [518] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.203 UTC [518] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.206 UTC [519] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.206 UTC [519] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.211 UTC [520] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.211 UTC [520] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.213 UTC [521] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.213 UTC [521] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.261 UTC [522] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.261 UTC [522] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-server  | Traceback (most recent call last):
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 288, in ensure_connection
+inventree-server  |     self.connect()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 269, in connect
+inventree-server  |     self.connection = self.get_new_connection(conn_params)
+inventree-server  |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/postgresql/base.py", line 275, in get_new_connection
+inventree-server  |     connection = self.Database.connect(**conn_params)
+inventree-server  |                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/psycopg/connection.py", line 120, in connect
+inventree-server  |     raise last_ex.with_traceback(None)
+inventree-server  | psycopg.OperationalError: connection failed: connection to server at "172.31.0.3", port 5432 failed: FATAL:  the database system is not yet accepting connections
+inventree-server  | DETAIL:  Consistent recovery state has not been yet reached.
+inventree-server  | 
+inventree-server  | The above exception was the direct cause of the following exception:
+inventree-server  | 
+inventree-server  | Traceback (most recent call last):
+inventree-server  |   File "/root/.local/bin/gunicorn", line 8, in <module>
+inventree-server  |     sys.exit(run())
+inventree-server  |              ^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+inventree-server  |     WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/base.py", line 235, in run
+inventree-server  |     super().run()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/base.py", line 71, in run
+inventree-server  |     Arbiter(self).run()
+inventree-server  |     ^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/arbiter.py", line 57, in __init__
+inventree-server  |     self.setup(app)
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/arbiter.py", line 117, in setup
+inventree-server  |     self.app.wsgi()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/base.py", line 66, in wsgi
+inventree-server  |     self.callable = self.load()
+inventree-server  |                     ^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/wsgiapp.py", line 57, in load
+inventree-server  |     return self.load_wsgiapp()
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/app/wsgiapp.py", line 47, in load_wsgiapp
+inventree-server  |     return util.import_app(self.app_uri)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/gunicorn/util.py", line 370, in import_app
+inventree-server  |     mod = importlib.import_module(module)
+inventree-server  |           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/usr/local/lib/python3.11/importlib/__init__.py", line 126, in import_module
+inventree-server  |     return _bootstrap._gcd_import(name[level:], package, level)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+inventree-server  |   File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+inventree-server  |   File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+inventree-server  |   File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+inventree-server  |   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+inventree-server  |   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/wsgi.py", line 19, in <module>
+inventree-server  |     application = get_wsgi_application()  # pragma: no cover
+inventree-server  |                   ^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+inventree-server  |     django.setup(set_prefix=False)
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/__init__.py", line 24, in setup
+inventree-server  |     apps.populate(settings.INSTALLED_APPS)
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/apps/registry.py", line 124, in populate
+inventree-server  |     app_config.ready()
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/part/apps.py", line 33, in ready
+inventree-server  |     InvenTreeConfig.ensure_migrations_done()
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/apps.py", line 320, in ensure_migrations_done
+inventree-server  |     if not InvenTree.tasks.check_for_migrations():
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/usr/local/lib/python3.11/contextlib.py", line 81, in inner
+inventree-server  |     return func(*args, **kwds)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/tasks.py", line 693, in check_for_migrations
+inventree-server  |     plan = get_migration_plan()
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/home/inventree/src/backend/InvenTree/InvenTree/tasks.py", line 657, in get_migration_plan
+inventree-server  |     executor = MigrationExecutor(connections[DEFAULT_DB_ALIAS])
+inventree-server  |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 18, in __init__
+inventree-server  |     self.loader = MigrationLoader(self.connection)
+inventree-server  |                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/loader.py", line 58, in __init__
+inventree-server  |     self.build_graph()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/loader.py", line 235, in build_graph
+inventree-server  |     self.applied_migrations = recorder.applied_migrations()
+inventree-server  |                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/recorder.py", line 81, in applied_migrations
+inventree-server  |     if self.has_table():
+inventree-server  |        ^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/recorder.py", line 57, in has_table
+inventree-server  |     with self.connection.cursor() as cursor:
+inventree-server  |          ^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 329, in cursor
+inventree-server  |     return self._cursor()
+inventree-server  |            ^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 305, in _cursor
+inventree-server  |     self.ensure_connection()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 287, in ensure_connection
+inventree-server  |     with self.wrap_database_errors:
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+inventree-server  |     raise dj_exc_value.with_traceback(traceback) from exc_value
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 288, in ensure_connection
+inventree-server  |     self.connect()
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/base.py", line 269, in connect
+inventree-server  |     self.connection = self.get_new_connection(conn_params)
+inventree-server  |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+inventree-server  |     return func(*args, **kwargs)
+inventree-server  |            ^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/postgresql/base.py", line 275, in get_new_connection
+inventree-server  |     connection = self.Database.connect(**conn_params)
+inventree-server  |                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-server  |   File "/root/.local/lib/python3.11/site-packages/psycopg/connection.py", line 120, in connect
+inventree-server  |     raise last_ex.with_traceback(None)
+inventree-server  | django.db.utils.OperationalError: connection failed: connection to server at "172.31.0.3", port 5432 failed: FATAL:  the database system is not yet accepting connections
+inventree-server  | DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.412 UTC [523] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.412 UTC [523] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.701 UTC [524] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.701 UTC [524] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:47.990 UTC [525] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:47.990 UTC [525] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:48.061 UTC [526] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:48.061 UTC [526] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:48.182 UTC [527] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:48.182 UTC [527] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:48.249 UTC [528] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:48.249 UTC [528] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:48.322 UTC [529] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:48.322 UTC [529] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:48.384 UTC [27] LOG:  checkpoint complete: wrote 634 buffers (3.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.291 s, sync=0.881 s, total=1.220 s; sync files=454, longest=0.005 s, average=0.002 s; distance=3381 kB, estimate=3381 kB; lsn=0/1F9FCE0, redo lsn=0/1F9FCE0
+inventree-db      | 2025-10-17 03:08:48.582 UTC [530] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:48.582 UTC [530] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:48.673 UTC [531] FATAL:  the database system is not yet accepting connections
+inventree-db      | 2025-10-17 03:08:48.673 UTC [531] DETAIL:  Consistent recovery state has not been yet reached.
+inventree-db      | 2025-10-17 03:08:48.706 UTC [1] LOG:  database system is ready to accept connections
+
+[Kinventree-server exited with code 1 (restarting)
+inventree-server  | Loading config file : /home/inventree/data/config.yaml
+inventree-server  | INVE-W3: Could not detect git information.
+inventree-server  | Python version 3.11.13 - /usr/local/bin/python3.11
+inventree-worker  | Waiting for database...
+inventree-worker  | Database connection successful!
+inventree-server  | Operations to perform:
+inventree-server  |   Apply all migrations: InvenTree, account, admin, auth, build, common, company, contenttypes, django_mailbox, django_q, error_report, exchange, flags, importer, machine, mfa, oauth2_provider, order, otp_static, otp_totp, part, plugin, report, sessions, socialaccount, stock, taggit, users, usersessions
+inventree-server  | Running migrations:
+inventree-worker  | INVE-W3: Could not detect git information.
+inventree-worker  | Python version 3.11.13 - /usr/local/bin/python3
+inventree-server  |   Applying oauth2_provider.0004_auto_20200902_2022... OK
+inventree-server  |   Applying oauth2_provider.0005_auto_20211222_2352... OK
+inventree-server  |   Applying oauth2_provider.0006_alter_application_client_secret... OK
+inventree-server  |   Applying oauth2_provider.0007_application_post_logout_redirect_uris... OK
+inventree-server  |   Applying oauth2_provider.0008_alter_accesstoken_token... OK
+inventree-server  |   Applying oauth2_provider.0009_add_hash_client_secret... OK
+inventree-server  |   Applying oauth2_provider.0010_application_allowed_origins... OK
+inventree-server  |   Applying oauth2_provider.0011_refreshtoken_token_family... OK
+inventree-server  |   Applying oauth2_provider.0012_add_token_checksum... OK
+inventree-server  |   Applying part.0131_partrelated_note... OK
+inventree-server  |   Applying part.0132_partparametertemplate_selectionlist... OK
+inventree-server  |   Applying part.0133_alter_partcategory__icon... OK
+inventree-server  |   Applying part.0134_auto_20250221_1309... OK
+inventree-server  |   Applying part.0135_alter_part_link... OK
+inventree-server  |   Applying part.0136_partparameter_note_partparameter_updated_and_more... OK
+inventree-server  |   Applying part.0137_bomitem_attrition_bomitem_rounding_multiple_and_more... OK
+inventree-server  |   Applying part.0138_auto_20250718_2342... OK
+inventree-server  |   Applying part.0139_remove_bomitem_overage... OK
+inventree-server  |   Applying part.0140_part_bom_validated... OK
+inventree-server  |   Applying part.0141_auto_20250722_0303... OK
+inventree-server  |   Applying part.0142_remove_part_last_stocktake_remove_partstocktake_note_and_more... OK
+inventree-server  |   Applying stock.0111_delete_stockitemattachment... OK
+inventree-server  |   Applying stock.0112_alter_stocklocation_custom_icon_and_more... OK
+inventree-server  |   Applying stock.0113_stockitem_status_custom_key_and_more... OK
+inventree-server  |   Applying order.0100_remove_returnorderattachment_order_and_more... OK
+inventree-server  |   Applying order.0101_purchaseorder_status_custom_key_and_more... OK
+inventree-server  |   Applying order.0102_purchaseorder_destination_and_more... OK
+inventree-server  |   Applying order.0103_alter_salesorderallocation_shipment... OK
+inventree-server  |   Applying order.0104_alter_returnorderlineitem_quantity... OK
+inventree-server  |   Applying order.0105_auto_20241128_0431... OK
+inventree-server  |   Applying order.0106_purchaseorder_start_date_returnorder_start_date_and_more... OK
+inventree-server  |   Applying order.0107_auto_20250221_1241... OK
+inventree-server  |   Applying order.0108_alter_purchaseorder_link_and_more_squashed_0109_alter_purchaseorderextraline_link_and_more... OK
+inventree-server  |   Applying order.0109_salesorder_issue_date... OK
+inventree-server  |   Applying order.0110_salesordershipment_barcode_data_and_more... OK
+inventree-server  |   Applying order.0111_purchaseorderlineitem_build_order... OK
+inventree-server  |   Applying order.0112_alter_salesorderlineitem_part... OK
+inventree-worker  | [36;1mOperations to perform:[0m
+inventree-worker  | [1m  Apply all migrations: [0mInvenTree, account, admin, auth, build, common, company, contenttypes, django_mailbox, django_q, error_report, exchange, flags, importer, machine, mfa, oauth2_provider, order, otp_static, otp_totp, part, plugin, report, sessions, socialaccount, stock, taggit, users, usersessions
+inventree-server  |   Applying otp_static.0001_initial... OK
+inventree-worker  | [36;1mRunning migrations:[0m
+inventree-server  |   Applying otp_static.0002_throttling... OK
+inventree-db      | 2025-10-17 03:08:59.358 UTC [537] ERROR:  relation "otp_static_staticdevice" already exists
+inventree-db      | 2025-10-17 03:08:59.358 UTC [537] STATEMENT:  CREATE TABLE "otp_static_staticdevice" ("id" integer NOT NULL PRIMARY KEY GENERATED BY DEFAULT AS IDENTITY, "name" varchar(64) NOT NULL, "confirmed" boolean NOT NULL, "user_id" integer NOT NULL)
+inventree-worker  |   Applying otp_static.0001_initial...[2m2025-10-17T03:08:59.362546Z[0m [[31m[1merror    [0m] [1mError during migrations: relation "otp_static_staticdevice" already exists[0m [[0m[1m[34minventree[0m][0m
+inventree-worker  | Traceback (most recent call last):
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 87, in _execute
+inventree-worker  |     return self.cursor.execute(sql)
+inventree-worker  |            ^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/psycopg/cursor.py", line 97, in execute
+inventree-worker  |     raise ex.with_traceback(None)
+inventree-worker  | psycopg.errors.DuplicateTable: relation "otp_static_staticdevice" already exists
+inventree-worker  | 
+inventree-worker  | The above exception was the direct cause of the following exception:
+inventree-worker  | 
+inventree-worker  | Traceback (most recent call last):
+inventree-worker  |   File "/home/inventree/src/backend/InvenTree/InvenTree/tasks.py", line 721, in check_for_migrations
+inventree-worker  |     call_command('migrate', interactive=False)
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/core/management/__init__.py", line 194, in call_command
+inventree-worker  |     return command.execute(*args, **defaults)
+inventree-worker  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/core/management/base.py", line 458, in execute
+inventree-worker  |     output = self.handle(*args, **options)
+inventree-worker  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/core/management/base.py", line 106, in wrapper
+inventree-worker  |     res = handle_func(*args, **kwargs)
+inventree-worker  |           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/core/management/commands/migrate.py", line 356, in handle
+inventree-worker  |     post_migrate_state = executor.migrate(
+inventree-worker  |                          ^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 135, in migrate
+inventree-worker  |     state = self._migrate_all_forwards(
+inventree-worker  |             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 167, in _migrate_all_forwards
+inventree-worker  |     state = self.apply_migration(
+inventree-worker  |             ^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 252, in apply_migration
+inventree-worker  |     state = migration.apply(state, schema_editor)
+inventree-worker  |             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/migration.py", line 132, in apply
+inventree-worker  |     operation.database_forwards(
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/migrations/operations/models.py", line 96, in database_forwards
+inventree-worker  |     schema_editor.create_model(model)
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/schema.py", line 451, in create_model
+inventree-worker  |     self.execute(sql, params or None)
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/postgresql/schema.py", line 45, in execute
+inventree-worker  |     return super().execute(sql, params)
+inventree-worker  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/schema.py", line 201, in execute
+inventree-worker  |     cursor.execute(sql, params)
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+inventree-worker  |     return self._execute_with_wrappers(
+inventree-worker  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+inventree-worker  |     return executor(sql, params, many, context)
+inventree-worker  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+inventree-worker  |     with self.db.wrap_database_errors:
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+inventree-worker  |     raise dj_exc_value.with_traceback(traceback) from exc_value
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 87, in _execute
+inventree-worker  |     return self.cursor.execute(sql)
+inventree-worker  |            ^^^^^^^^^^^^^^^^^^^^^^^^
+inventree-worker  |   File "/root/.local/lib/python3.11/site-packages/psycopg/cursor.py", line 97, in execute
+inventree-worker  |     raise ex.with_traceback(None)
+inventree-worker  | django.db.utils.ProgrammingError: relation "otp_static_staticdevice" already exists
+inventree-worker  | 2025-10-17 03:08:59,366 ERROR {'event': 'Error during migrations: relation "otp_static_staticdevice" already exists', 'timestamp': '2025-10-17T03:08:59.362546Z', 'logger': 'inventree', 'level': 'error', 'exception': 'Traceback (most recent call last):\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 87, in _execute\n    return self.cursor.execute(sql)\n           ^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/psycopg/cursor.py", line 97, in execute\n    raise ex.with_traceback(None)\npsycopg.errors.DuplicateTable: relation "otp_static_staticdevice" already exists\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File "/home/inventree/src/backend/InvenTree/InvenTree/tasks.py", line 721, in check_for_migrations\n    call_command(\'migrate\', interactive=False)\n  File "/root/.local/lib/python3.11/site-packages/django/core/management/__init__.py", line 194, in call_command\n    return command.execute(*args, **defaults)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/core/management/base.py", line 458, in execute\n    output = self.handle(*args, **options)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/core/management/base.py", line 106, in wrapper\n    res = handle_func(*args, **kwargs)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/core/management/commands/migrate.py", line 356, in handle\n    post_migrate_state = executor.migrate(\n                         ^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 135, in migrate\n    state = self._migrate_all_forwards(\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 167, in _migrate_all_forwards\n    state = self.apply_migration(\n            ^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/db/migrations/executor.py", line 252, in apply_migration\n    state = migration.apply(state, schema_editor)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/db/migrations/migration.py", line 132, in apply\n    operation.database_forwards(\n  File "/root/.local/lib/python3.11/site-packages/django/db/migrations/operations/models.py", line 96, in database_forwards\n    schema_editor.create_model(model)\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/schema.py", line 451, in create_model\n    self.execute(sql, params or None)\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/postgresql/schema.py", line 45, in execute\n    return super().execute(sql, params)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/base/schema.py", line 201, in execute\n    cursor.execute(sql, params)\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute\n    return self._execute_with_wrappers(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers\n    return executor(sql, params, many, context)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute\n    with self.db.wrap_database_errors:\n  File "/root/.local/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__\n    raise dj_exc_value.with_traceback(traceback) from exc_value\n  File "/root/.local/lib/python3.11/site-packages/django/db/backends/utils.py", line 87, in _execute\n    return self.cursor.execute(sql)\n           ^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/root/.local/lib/python3.11/site-packages/psycopg/cursor.py", line 97, in execute\n    raise ex.with_traceback(None)\ndjango.db.utils.ProgrammingError: relation "otp_static_staticdevice" already exists'}
+inventree-worker  | [2m2025-10-17T03:08:59.374664Z[0m [[33m[1mwarning  [0m] [1mMaintenance mode was not disabled - forcing it now[0m [[0m[1m[34minventree[0m][0m
+inventree-worker  | 2025-10-17 03:08:59,374 WARNING {'event': 'Maintenance mode was not disabled - forcing it now', 'timestamp': '2025-10-17T03:08:59.374664Z', 'logger': 'inventree', 'level': 'warning'}
+inventree-server  |   Applying otp_totp.0001_initial... OK
+inventree-server  |   Applying otp_totp.0002_auto_20190420_0723... OK
+inventree-server  |   Applying plugin.0010_pluginusersetting... OK
+inventree-server  |   Applying plugin.0011_delete_notificationusersetting... OK
+inventree-server  |   Applying report.0001_initial... OK
+inventree-server  |   Applying report.0002_delete_reporttemplate... OK
+inventree-server  |   Applying report.0003_testreport_enabled... OK
+inventree-server  |   Applying report.0004_auto_20200823_1104... OK
+inventree-server  |   Applying report.0005_auto_20210119_0815... OK
+inventree-server  |   Applying report.0006_reportsnippet... OK
+inventree-server  |   Applying report.0007_auto_20210204_1617... OK
+inventree-server  |   Applying report.0008_auto_20210204_2100... OK
+inventree-server  |   Applying report.0009_testreport_revision... OK
+inventree-server  |   Applying report.0010_auto_20210205_1201... OK
+inventree-server  |   Applying report.0011_auto_20210212_2024... OK
+inventree-server  |   Applying report.0012_buildreport... OK
+inventree-server  |   Applying report.0013_testreport_include_installed... OK
+inventree-server  |   Applying report.0014_purchaseorderreport_salesorderreport... OK
+inventree-server  |   Applying report.0015_auto_20210403_1837... OK
+inventree-server  |   Applying report.0016_auto_20210513_1303... OK
+inventree-server  |   Applying report.0017_auto_20230317_0816... OK
+inventree-server  |   Applying report.0018_returnorderreport... OK
+inventree-server  |   Applying report.0019_returnorderreport_metadata... OK
+inventree-server  |   Applying report.0020_stocklocationreport... OK
+inventree-server  |   Applying report.0021_auto_20231009_0144... OK
+inventree-server  |   Applying report.0022_reporttemplate... OK
+inventree-server  |   Applying report.0023_auto_20240421_0455... OK
+inventree-server  |   Applying report.0024_delete_billofmaterialsreport_delete_buildreport_and_more... OK
+inventree-server  |   Applying report.0025_labeltemplate... OK
+inventree-db      | 2025-10-17 03:09:00.660 UTC [536] ERROR:  relation "label_stockitemlabel" does not exist at character 89
+inventree-db      | 2025-10-17 03:09:00.660 UTC [536] STATEMENT:  SELECT name, description, label, enabled, height, width, filename_pattern, filters FROM label_stockitemlabel;
+inventree-db      | 2025-10-17 03:09:00.660 UTC [536] ERROR:  relation "label_stocklocationlabel" does not exist at character 89
+inventree-db      | 2025-10-17 03:09:00.660 UTC [536] STATEMENT:  SELECT name, description, label, enabled, height, width, filename_pattern, filters FROM label_stocklocationlabel;
+inventree-db      | 2025-10-17 03:09:00.661 UTC [536] ERROR:  relation "label_partlabel" does not exist at character 89
+inventree-db      | 2025-10-17 03:09:00.661 UTC [536] STATEMENT:  SELECT name, description, label, enabled, height, width, filename_pattern, filters FROM label_partlabel;
+inventree-db      | 2025-10-17 03:09:00.661 UTC [536] ERROR:  relation "label_buildlinelabel" does not exist at character 89
+inventree-db      | 2025-10-17 03:09:00.661 UTC [536] STATEMENT:  SELECT name, description, label, enabled, height, width, filename_pattern, filters FROM label_buildlinelabel;
+inventree-server  |   Applying report.0026_auto_20240422_1301... OK
+inventree-server  |   Applying report.0027_alter_labeltemplate_model_type_and_more... OK
+inventree-server  |   Applying report.0028_labeltemplate_attach_to_model_and_more... OK
+inventree-server  |   Applying report.0029_remove_reportoutput_template_and_more... OK
+inventree-server  |   Applying report.0030_alter_labeltemplate_model_type_and_more... OK
+inventree-server  |   Applying report.0031_reporttemplate_merge... OK
+inventree-server  |   Applying sessions.0001_initial... OK
+inventree-server  |   Applying socialaccount.0001_initial... OK
+inventree-server  |   Applying socialaccount.0002_token_max_lengths... OK
+inventree-server  |   Applying socialaccount.0003_extra_data_default_dict... OK
+inventree-server  |   Applying socialaccount.0004_app_provider_id_settings... OK
+inventree-server  |   Applying socialaccount.0005_socialtoken_nullable_app... OK
+inventree-server  |   Applying socialaccount.0006_alter_socialaccount_extra_data... OK
+inventree-server  |   Applying stock.0114_alter_stocklocation_custom_icon... OK
+inventree-server  |   Applying stock.0115_auto_20250221_1323... OK
+inventree-server  |   Applying stock.0116_alter_stockitem_link... OK
+inventree-server  |   Applying taggit.0006_rename_taggeditem_content_type_object_id_taggit_tagg_content_8fc721_idx... OK
+inventree-server  |   Applying users.0011_auto_20240523_1640...
+inventree-server  | Cleared all user sessions to deal with GHSA-2crp-q9pc-457j
+inventree-server  |  OK
+inventree-server  |   Applying users.0012_alter_ruleset_can_view... OK
+inventree-server  |   Applying users.0013_migrate_mfa_20240408_1659... OK
+inventree-server  |   Applying users.0014_userprofile... OK
+inventree-server  |   Applying users.0015_alter_userprofile_type... OK
+inventree-server  |   Applying usersessions.0001_initial... OK
+inventree-server  | [2m2025-10-17T03:09:03.306956Z[0m [[33m[1mwarning  [0m] [1mMaintenance mode was not disabled - forcing it now[0m [[0m[1m[34minventree[0m][0m
+inventree-server  | 2025-10-17 03:09:03,307 WARNING {'event': 'Maintenance mode was not disabled - forcing it now', 'timestamp': '2025-10-17T03:09:03.306956Z', 'logger': 'inventree', 'level': 'warning'}
+inventree-db      | 2025-10-17 03:09:44.356 UTC [586] ERROR:  duplicate key value violates unique constraint "common_inventreesetting_key_key"
+inventree-db      | 2025-10-17 03:09:44.356 UTC [586] DETAIL:  Key (key)=(INVENTREE_DELETE_TASKS_DAYS) already exists.
+inventree-db      | 2025-10-17 03:09:44.356 UTC [586] STATEMENT:  INSERT INTO "common_inventreesetting" ("value", "key") VALUES ('30', 'INVENTREE_DELETE_TASKS_DAYS') RETURNING "common_inventreesetting"."id"
+inventree-worker  | /root/.local/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1535: RuntimeWarning: DateTimeField DataImportSession.timestamp received a naive datetime (2025-10-12 00:00:00) while time zone support is active.
+inventree-worker  |   warnings.warn(
+inventree-worker  | /root/.local/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1535: RuntimeWarning: DateTimeField NotesImage.date received a naive datetime (2025-07-19 00:00:00) while time zone support is active.
+inventree-worker  |   warnings.warn(
+inventree-worker  | /root/.local/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1535: RuntimeWarning: DateTimeField PartPricing.updated received a naive datetime (2025-09-17 00:00:00) while time zone support is active.
+inventree-worker  |   warnings.warn(
